@@ -7,6 +7,14 @@
 			"tokenB": "USDC",
 			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/ntrn.png",
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/usdc.png"
+		},
+		{
+			"name": "Sciampa",
+			"image": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/sciampa.png",
+			"tokenA": "NTRN",
+			"tokenB": "USDC",
+			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/ntrn.png",
+			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/usdc.png"
 		}
 	]
 }
