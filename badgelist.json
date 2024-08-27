@@ -2,11 +2,11 @@
 	"collections": [
 		{
 			"name": "Sciampa",
-			"image": "../image/sciampa.png",
+			"image": "/image/sciampa.png",
 			"tokenA": "ntrn",
 			"tokenB": "USDC",
-			"imageA": "../image/ntrn.png",
-			"imageB": "../image/usdc.png"
+			"imageA": "/image/ntrn.png",
+			"imageB": "/image/usdc.png"
 		}
 	]
 }
