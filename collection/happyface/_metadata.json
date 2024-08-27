@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Emoji NFT #0",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "0.png",
+    "dna": "9c04c44eeb2d8d4f5bdb0956228cb396d565d88a",
+    "edition": 0,
+    "date": 1675330089277,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #1",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "1.png",
+    "dna": "0170f57b54df2f5c45d7a466daad75f0b967a997",
+    "edition": 1,
+    "date": 1675330089334,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #2",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "2.png",
+    "dna": "c465220f98bbc75023434d9498634cb35f9c1db0",
+    "edition": 2,
+    "date": 1675330089390,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 10"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #3",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "3.png",
+    "dna": "323c5b68b956059d9baad61690abea9103e032a6",
+    "edition": 3,
+    "date": 1675330089447,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #4",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "4.png",
+    "dna": "0a5537bc657da7884fb2575da223265c9a5fb05f",
+    "edition": 4,
+    "date": 1675330089504,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 19"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #5",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "5.png",
+    "dna": "8db498f52e9c23f88ffd67187bc8f0b74766abb6",
+    "edition": 5,
+    "date": 1675330089557,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #6",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "6.png",
+    "dna": "326185ab0189ab67bc596d42398bd078cc151bb7",
+    "edition": 6,
+    "date": 1675330089608,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 19"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #7",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "7.png",
+    "dna": "20aa92b85dd27f1fa19746d23b9a42dff5430883",
+    "edition": 7,
+    "date": 1675330089660,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #8",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "8.png",
+    "dna": "6372277538897d77627d2f4f2e4ca62338bfd55b",
+    "edition": 8,
+    "date": 1675330089718,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 4"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #9",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "9.png",
+    "dna": "6a2072c7a088d60c6eb134bd8eae2b6d99d08749",
+    "edition": 9,
+    "date": 1675330089771,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #10",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "10.png",
+    "dna": "fca2cdd053b3e222c1117586154a92de5ba7503a",
+    "edition": 10,
+    "date": 1675330089830,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #11",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "11.png",
+    "dna": "d33835f7361d906bee89d276c5d81fe48229e15c",
+    "edition": 11,
+    "date": 1675330089887,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 4"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #12",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "12.png",
+    "dna": "535fa74bc6030ac7ad21a174f822c9839d3a43de",
+    "edition": 12,
+    "date": 1675330089938,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 11"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #13",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "13.png",
+    "dna": "22eba232c03c434795dec19a76bcacbd81263cae",
+    "edition": 13,
+    "date": 1675330089991,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 15"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #14",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "14.png",
+    "dna": "e0983d2461667ecd24606a92657d8d471a20f8da",
+    "edition": 14,
+    "date": 1675330090041,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #15",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "15.png",
+    "dna": "7c4ca9e9f4c4b2ebe2cb2e4277283ccd47f1bb13",
+    "edition": 15,
+    "date": 1675330090091,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #16",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "16.png",
+    "dna": "66d158e33beb074aee53e37d06d669194765d897",
+    "edition": 16,
+    "date": 1675330090140,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #17",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "17.png",
+    "dna": "0564dcd742dd2f32d41aac8711bc2c4876767266",
+    "edition": 17,
+    "date": 1675330090194,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 7"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #18",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "18.png",
+    "dna": "d3b8d6ad4387760ca5373c366cb6948fbdb072f1",
+    "edition": 18,
+    "date": 1675330090249,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #19",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "19.png",
+    "dna": "a329646dd25847298dda7b1f17974767632613a1",
+    "edition": 19,
+    "date": 1675330090303,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #20",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "20.png",
+    "dna": "8e62abb22c1e31f501d3385fd91cb692e8cb3c10",
+    "edition": 20,
+    "date": 1675330090353,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #21",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "21.png",
+    "dna": "03f0b9416cbced1cc68a638a0137158501469074",
+    "edition": 21,
+    "date": 1675330090402,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #22",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "22.png",
+    "dna": "b26e2f9251134749befd482ee1ced893d76b9da7",
+    "edition": 22,
+    "date": 1675330090455,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 10"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #23",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "23.png",
+    "dna": "1d3f7fed068d2370fbdf52698f70683ada0a18ef",
+    "edition": 23,
+    "date": 1675330090507,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #24",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "24.png",
+    "dna": "83a77f0d01877b537af4d6d5f501703c69c0e169",
+    "edition": 24,
+    "date": 1675330090558,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 19"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #25",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "25.png",
+    "dna": "1c5561d97c6b753f3deb96121303e28a7afc266a",
+    "edition": 25,
+    "date": 1675330090609,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #26",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "26.png",
+    "dna": "49fcc2fae396c73e24ae25c9a37844b04af28e10",
+    "edition": 26,
+    "date": 1675330090660,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #27",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "27.png",
+    "dna": "6cb56b2e200b1f8f45811eb54ec64f5070e598b9",
+    "edition": 27,
+    "date": 1675330090709,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #28",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "28.png",
+    "dna": "f80b287c1b838cac6a740c37635591347061f877",
+    "edition": 28,
+    "date": 1675330090764,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #29",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "29.png",
+    "dna": "cb8aa164d039734662198fa52afad9126871aaff",
+    "edition": 29,
+    "date": 1675330090813,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #30",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "30.png",
+    "dna": "d153820bde227570b9de1f6840bb52a0612d1ae6",
+    "edition": 30,
+    "date": 1675330090864,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #31",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "31.png",
+    "dna": "08b009d8dced33f7e70f0ab5d3d6f77bb742ffea",
+    "edition": 31,
+    "date": 1675330090916,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 11"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #32",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "32.png",
+    "dna": "49423220db058e24a575b92cc02d59c4797672c0",
+    "edition": 32,
+    "date": 1675330090965,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 15"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #33",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "33.png",
+    "dna": "1f7f14a2c58d64f1b1a14a26c8019b46e7854911",
+    "edition": 33,
+    "date": 1675330091016,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 15"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #34",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "34.png",
+    "dna": "25e0d86110f0c4e51d261cf9645752e7a83d7a61",
+    "edition": 34,
+    "date": 1675330091066,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #35",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "35.png",
+    "dna": "4fbcc88d068df4a48eac04206baf9b088f52553e",
+    "edition": 35,
+    "date": 1675330091115,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 1"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #36",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "36.png",
+    "dna": "788c0f785ab36a6a70b8cd245138e1763fca6771",
+    "edition": 36,
+    "date": 1675330091164,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #37",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "37.png",
+    "dna": "88bce749619dc9c01a63b3247cc754e8abc78cff",
+    "edition": 37,
+    "date": 1675330091215,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #38",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "38.png",
+    "dna": "504c8a08a2291a678a9f885d017e95292e2b42be",
+    "edition": 38,
+    "date": 1675330091266,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 11"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #39",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "39.png",
+    "dna": "e4e630a5f2af1284818d99d4895ba15ba87ddf3e",
+    "edition": 39,
+    "date": 1675330091317,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #40",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "40.png",
+    "dna": "a0585c2f1cb8532b93bd92c17eaeb2d64b4b4172",
+    "edition": 40,
+    "date": 1675330091371,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #41",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "41.png",
+    "dna": "ef909e2cd6d61b450afe4c201ef30b844c5c93af",
+    "edition": 41,
+    "date": 1675330091421,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #42",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "42.png",
+    "dna": "5b9be91997eb6dc4ffefc5b2fc6865ff74d06d2c",
+    "edition": 42,
+    "date": 1675330091476,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #43",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "43.png",
+    "dna": "9315b196bdf29b84dffd5b697fbf7ec1d8ece228",
+    "edition": 43,
+    "date": 1675330091524,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #44",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "44.png",
+    "dna": "953ebdcf4ae144d0ec7cd192e825c8d970d4884a",
+    "edition": 44,
+    "date": 1675330091576,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #45",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "45.png",
+    "dna": "dee578e9d9685ca1924fad8862237b8e7c7a7a10",
+    "edition": 45,
+    "date": 1675330091626,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #46",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "46.png",
+    "dna": "cd91ada733f72d04cae04d192c029c99c070581c",
+    "edition": 46,
+    "date": 1675330091678,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #47",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "47.png",
+    "dna": "4809dd1cbc57cb3e8e1faf565209a95a3b5c9605",
+    "edition": 47,
+    "date": 1675330091729,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 10"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #48",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "48.png",
+    "dna": "5c379898e1f4bf85355ed2ebf75eaf86ab3e9053",
+    "edition": 48,
+    "date": 1675330091779,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #49",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "49.png",
+    "dna": "0d43b8c5c3af54a2218f3e330d4a2577a7ebee77",
+    "edition": 49,
+    "date": 1675330091831,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #50",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "50.png",
+    "dna": "58d00baf91257f5313fcb7b2a6b1927c3b751a77",
+    "edition": 50,
+    "date": 1675330091886,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #51",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "51.png",
+    "dna": "6d7a977efab75a1e157388fe05ef0eff6c76a9cd",
+    "edition": 51,
+    "date": 1675330091943,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #52",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "52.png",
+    "dna": "2208420bb56d82a670f2662c8498772af3c3c872",
+    "edition": 52,
+    "date": 1675330091999,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #53",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "53.png",
+    "dna": "b30d89903a1ac4d6f9ea8576ff7cbe86cfd2a953",
+    "edition": 53,
+    "date": 1675330092052,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #54",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "54.png",
+    "dna": "373c7c42fd5e7c27751ce70fa397a2ad7dbc8662",
+    "edition": 54,
+    "date": 1675330092107,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #55",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "55.png",
+    "dna": "cd52db9239c7d854c96bb1103139093994419da5",
+    "edition": 55,
+    "date": 1675330092160,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #56",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "56.png",
+    "dna": "0c3d06f74655a6213894ce8e04c61aa25d3ab309",
+    "edition": 56,
+    "date": 1675330092212,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #57",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "57.png",
+    "dna": "5518cf0d49712058b969a3d3b5bb0d43ea9686d3",
+    "edition": 57,
+    "date": 1675330092263,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #58",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "58.png",
+    "dna": "6e47a16c8784eab67623198bb946ada0e73ef9fd",
+    "edition": 58,
+    "date": 1675330092318,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 10"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #59",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "59.png",
+    "dna": "7977d17dae0528a2f8016b489b075267aa602687",
+    "edition": 59,
+    "date": 1675330092369,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #60",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "60.png",
+    "dna": "fcaf90afab738e56853e9339b0b90e0ead4301fd",
+    "edition": 60,
+    "date": 1675330092421,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 7"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #61",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "61.png",
+    "dna": "15811bc3d7e11c31f7249746391d50a5b93625d6",
+    "edition": 61,
+    "date": 1675330092487,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #62",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "62.png",
+    "dna": "75a2d7f16c1d864800673f97cbff4d0b0aa57242",
+    "edition": 62,
+    "date": 1675330092547,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 15"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #63",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "63.png",
+    "dna": "181d67d3342dceac272516190106e44fa8249457",
+    "edition": 63,
+    "date": 1675330092636,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #64",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "64.png",
+    "dna": "3452b0e8d838980f5eb5910ac9b9074bba48fe59",
+    "edition": 64,
+    "date": 1675330092694,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #65",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "65.png",
+    "dna": "83443445c3358477773cb5dcff327d7fa61588ac",
+    "edition": 65,
+    "date": 1675330092759,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #66",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "66.png",
+    "dna": "6fcc4d03a760a97c0e58d5e0cd987d877e0e208a",
+    "edition": 66,
+    "date": 1675330092821,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 11"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #67",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "67.png",
+    "dna": "2a30f0c15004144680cd3f7a89f2b00fb9a68f5a",
+    "edition": 67,
+    "date": 1675330092881,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #68",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "68.png",
+    "dna": "fe99eabae8e0368fa419b213473002fdbb36ebcb",
+    "edition": 68,
+    "date": 1675330092939,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #69",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "69.png",
+    "dna": "b5c9b2a2b2506366178f719a570ba48b6ba39506",
+    "edition": 69,
+    "date": 1675330092996,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #70",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "70.png",
+    "dna": "477097c82a146c8f4041742d205d3047410c5c2e",
+    "edition": 70,
+    "date": 1675330093053,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #71",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "71.png",
+    "dna": "e1c4e28e98f0beb5bcbf55e82fa27d359000705e",
+    "edition": 71,
+    "date": 1675330093104,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 1"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #72",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "72.png",
+    "dna": "b98f9ccfe30d46dda33718b30cc05a45ab5f6f8f",
+    "edition": 72,
+    "date": 1675330093153,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 19"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #73",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "73.png",
+    "dna": "ef41ba21ba84448c0cf8ae3e4cae220c869af3c5",
+    "edition": 73,
+    "date": 1675330093203,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #74",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "74.png",
+    "dna": "f63037948dabbbde23f53b45cde59d766bc5119a",
+    "edition": 74,
+    "date": 1675330093252,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #75",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "75.png",
+    "dna": "0868bccb5b83f5a9cd9b170efa33ca931a645539",
+    "edition": 75,
+    "date": 1675330093306,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #76",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "76.png",
+    "dna": "10985b7a92014198d11f44828f4a5dead9cd69a9",
+    "edition": 76,
+    "date": 1675330093363,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 1"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #77",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "77.png",
+    "dna": "a2270cf68f32f6be7644737e4315773c7f1917fa",
+    "edition": 77,
+    "date": 1675330093416,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #78",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "78.png",
+    "dna": "62056aff2eb11262a682b53b5b978548d3cb2760",
+    "edition": 78,
+    "date": 1675330093472,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #79",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "79.png",
+    "dna": "d1951023629b47d4c4241e689fa6098946b68349",
+    "edition": 79,
+    "date": 1675330093528,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #80",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "80.png",
+    "dna": "5b928a7d2333b2c32d119df032b50f0ce0eca5dd",
+    "edition": 80,
+    "date": 1675330093583,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #81",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "81.png",
+    "dna": "55812702679f7f19d5597edd1df322836beb3256",
+    "edition": 81,
+    "date": 1675330093637,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #82",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "82.png",
+    "dna": "3c42f9ad3d5fed4530e4ae597198adfcf2d9a448",
+    "edition": 82,
+    "date": 1675330093689,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #83",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "83.png",
+    "dna": "336817f4aa72051f7f2b2017008d6155dbefec2f",
+    "edition": 83,
+    "date": 1675330093740,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #84",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "84.png",
+    "dna": "8b0f86e72c751abc13b960c97ea532a0d6a13c17",
+    "edition": 84,
+    "date": 1675330093792,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 1"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #85",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "85.png",
+    "dna": "c7566bdb12c9490ed1089aaa25628e20a141eb6d",
+    "edition": 85,
+    "date": 1675330093848,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 1"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #86",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "86.png",
+    "dna": "6a3652fa4eb43258e08548b24f5405db415d1a09",
+    "edition": 86,
+    "date": 1675330093902,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 11"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #87",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "87.png",
+    "dna": "82f7a94a5cedea3ecc780fae38859f936f963e09",
+    "edition": 87,
+    "date": 1675330093958,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #88",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "88.png",
+    "dna": "d24153ea41098f2b544e0d868851f06f477774e1",
+    "edition": 88,
+    "date": 1675330094012,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 7"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #89",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "89.png",
+    "dna": "87f08aa8edbb1db106a523ba57e2b668eef4aba7",
+    "edition": 89,
+    "date": 1675330094070,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #90",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "90.png",
+    "dna": "2b7b38bdfc133667208464565539b25cb9e0e34b",
+    "edition": 90,
+    "date": 1675330094128,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #91",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "91.png",
+    "dna": "883848a8cd7876170171c73b8808653c257805e7",
+    "edition": 91,
+    "date": 1675330094183,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 7"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #92",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "92.png",
+    "dna": "c32b1fb9f5785ba901f3560f4469f0992573184d",
+    "edition": 92,
+    "date": 1675330094241,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #93",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "93.png",
+    "dna": "0d3373af9a6588a58c6f4b7342e527345f8c35b4",
+    "edition": 93,
+    "date": 1675330094304,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #94",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "94.png",
+    "dna": "7bade95487c70cf64c442c412b2ed0c6cbd4c4c6",
+    "edition": 94,
+    "date": 1675330094361,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #95",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "95.png",
+    "dna": "2c67bdc62179eaa4a725ab5a8825a1930060b390",
+    "edition": 95,
+    "date": 1675330094438,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 12"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #96",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "96.png",
+    "dna": "a1455154dd72a1cadf59938775caf07963486dd2",
+    "edition": 96,
+    "date": 1675330094497,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 1"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #97",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "97.png",
+    "dna": "9bb9de42e8d9cd33e4b6e9279a416f37ea3e5a67",
+    "edition": 97,
+    "date": 1675330094550,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #98",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "98.png",
+    "dna": "2357e071039260f259fef49fcc60b55eee88aebe",
+    "edition": 98,
+    "date": 1675330094610,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Emoji NFT #99",
+    "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+    "image": "99.png",
+    "dna": "8d3cd168a9258706d1d637500a751d86f849dc40",
+    "edition": 99,
+    "date": 1675330094664,
+    "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+    "creator": "Waren Gonzaga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  }
+]
