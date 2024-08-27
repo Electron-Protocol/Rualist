@@ -2,7 +2,7 @@
 	"collections": [
 		{
 			"name": "Sciampa",
-			"image": "/image/sciampa.png",
+			"image": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/sciampa.png",
 			"tokenA": "ntrn",
 			"tokenB": "USDC",
 			"imageA": "/image/ntrn.png",
