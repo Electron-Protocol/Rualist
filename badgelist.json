@@ -3,10 +3,10 @@
 		{
 			"name": "Sciampa",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/sciampa.png",
-			"tokenA": "ntrn",
+			"tokenA": "NTRN",
 			"tokenB": "USDC",
-			"imageA": "/image/ntrn.png",
-			"imageB": "/image/usdc.png"
+			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/ntrn.png",
+			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/usdc.png"
 		}
 	]
 }
