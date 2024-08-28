@@ -9,6 +9,16 @@
 			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/ntrn.png",
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/usdc.png",
 			"contractAddress": "neutron1kgfxqw4tdwra62lf0nca3vwurwamtdql9tlsfqccln6jt7ckk3ysr5ncgg"
+		},
+		{
+			"name": "Happy Face 2",
+			"Tquantity": "50",
+			"image": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/preview.gif",
+			"tokenA": "NTRN",
+			"tokenB": "USDC",
+			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/ntrn.png",
+			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/usdc.png",
+			"contractAddress": "neutron1kgfxqw4tdwra62lf0nca3vwurwamtdql9tlsfqccln6jt7ckk3ysr5ncgg"
 		}
 	]
 }
