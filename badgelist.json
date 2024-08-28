@@ -2,6 +2,7 @@
 	"collections": [
 		{
 			"name": "Happy Face",
+			"Tquantity": "100",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/preview.gif",
 			"tokenA": "NTRN",
 			"tokenB": "USDC",
