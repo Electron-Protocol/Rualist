@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Meta Flowers",
-			"Tquantity": "39",
+			"Tquantity": "30",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/preview2.gif",
 			"tokenA": "ELECTRON",
 			"tokenB": "BTC",
