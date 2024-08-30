@@ -11,7 +11,12 @@
 			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/ntrn.png",
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/usdc.png",
 			"contractAddress": "neutron1kgfxqw4tdwra62lf0nca3vwurwamtdql9tlsfqccln6jt7ckk3ysr5ncgg",
-			"isVerified": "true"
+			"isVerified": "true",
+			"socials": {
+				"twitter": "https://x.com/ElectronDeFi",
+				"telegram": "https://t.me/electroncommunity",
+				"website": "https://www.electronprotocol.io"
+			}
 		},
 		{
 			"name": "Meta Flowers",
@@ -24,7 +29,13 @@
 			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/electron.png",
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Badgelist/main/image/BTC.png",
 			"contractAddress": "neutron1tkpr62lwf83ufuuvvjwnmxyswwsyvzw0gae87wxxrq9muaxtkmzq6c6pt5",
-			"isVerified": "false"
+			"isVerified": "false",
+			"socials": {
+				"twitter": "https://twitter.com/metaflowers",
+				"telegram": "https://t.me/metaflowers",
+				"medium": "https://medium.com/@metaflowers",
+				"website": "https://metaflowers.com"
+			}
 		}
 	]
 }
