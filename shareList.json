@@ -32,7 +32,7 @@
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/BTC.png",
 			"contractAddress": "neutron1tkpr62lwf83ufuuvvjwnmxyswwsyvzw0gae87wxxrq9muaxtkmzq6c6pt5",
 			"poolContract": "neutron1haxlmlw63mwfsy90gzd2glfex5hux7zew45aymzkksd0ucya4dkqmmntyc",
-			"shareRanking": "9",
+			"shareRanking": "0",
 			"isVerified": "false",
 			"socials": {
 				"twitter": "https://twitter.com/metaflowers",
