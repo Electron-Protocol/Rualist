@@ -12,7 +12,7 @@
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/usdc.png",
 			"poolContract": "neutron1s9zqu3v9uf6mhyzhru4j8d90hhf70y4vsq9zmt68sn7u8qlnh5eqtglr2p",
 			"contractAddress": "neutron1kgfxqw4tdwra62lf0nca3vwurwamtdql9tlsfqccln6jt7ckk3ysr5ncgg",
-			"shareRanking": "30",
+			"shareRanking": "7",
 			"isVerified": "true",
 			"socials": {
 				"twitter": "https://x.com/ElectronDeFi",
@@ -24,7 +24,7 @@
 			"name": "Meta Flowers",
 			"description": "A dummy Flowers NFT collection of 30 unique pixelated arts based on HashLips Art Engine sample assets. This is for testing purposes only and not real NFT collection.",
 			"Author": "SciampaDev",
-			"Tquantity": "30",
+			"Tquantity": "3",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/preview2.gif",
 			"tokenA": "ELECTRON",
 			"tokenB": "BTC",
