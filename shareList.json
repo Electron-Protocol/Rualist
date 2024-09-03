@@ -12,7 +12,7 @@
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/usdc.png",
 			"poolContract": "neutron1s9zqu3v9uf6mhyzhru4j8d90hhf70y4vsq9zmt68sn7u8qlnh5eqtglr2p",
 			"contractAddress": "neutron1kgfxqw4tdwra62lf0nca3vwurwamtdql9tlsfqccln6jt7ckk3ysr5ncgg",
-			"shareRanking": "80",
+			"shareRanking": "30",
 			"isVerified": "true",
 			"socials": {
 				"twitter": "https://x.com/ElectronDeFi",
@@ -32,7 +32,7 @@
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/BTC.png",
 			"contractAddress": "neutron1tkpr62lwf83ufuuvvjwnmxyswwsyvzw0gae87wxxrq9muaxtkmzq6c6pt5",
 			"poolContract": "neutron1haxlmlw63mwfsy90gzd2glfex5hux7zew45aymzkksd0ucya4dkqmmntyc",
-			"shareRanking": "C",
+			"shareRanking": "70",
 			"isVerified": "false",
 			"socials": {
 				"twitter": "https://twitter.com/metaflowers",
