@@ -28,7 +28,7 @@
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/rua2.png",
 			"tokenA": "NTRN",
 			"tokenB": "ATOM",
-			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/nrrn.png",
+			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/ntrn.png",
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/atom.png",
 			"poolContract": "neutron1t3jqqftcytmyfny3a8ny6m977z06rkc7dvanr0hjgqpdaahquqeqgvtvzz",
 			"contractAddress": "neutron1tkpr62lwf83ufuuvvjwnmxyswwsyvzw0gae87wxxrq9muaxtkmzq6c6pt5",
