@@ -48,9 +48,9 @@
 			"Tquantity": "100",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/rua1.png",
 			"tokenA": "NTRN",
-			"tokenB": "USDC",
+			"tokenB": "tBTC",
 			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/ntrn.png",
-			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/usdc.png",
+			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/BTC.png",
 			"poolContract": "neutron1w94d0pw5n0n86t5t47glmy2tvmw256u5zdrhwrwhnlyhjrc0744sgu9gzu",
 			"contractAddress": "neutron1kgfxqw4tdwra62lf0nca3vwurwamtdql9tlsfqccln6jt7ckk3ysr5ncgg",
 			"shareRanking": "6",
@@ -68,9 +68,9 @@
 			"Tquantity": "3",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/rua2.png",
 			"tokenA": "NTRN",
-			"tokenB": "ATOM",
+			"tokenB": "tETH",
 			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/ntrn.png",
-			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/atom.png",
+			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/tETH.png",
 			"poolContract": "neutron1t3jqqftcytmyfny3a8ny6m977z06rkc7dvanr0hjgqpdaahquqeqgvtvzz",
 			"contractAddress": "neutron1tkpr62lwf83ufuuvvjwnmxyswwsyvzw0gae87wxxrq9muaxtkmzq6c6pt5",
 			"shareRanking": "8",
@@ -88,10 +88,10 @@
 			"Author": "Electron-Protocol",
 			"Tquantity": "100",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/rua1.png",
-			"tokenA": "NTRN",
-			"tokenB": "USDC",
-			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/ntrn.png",
-			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/usdc.png",
+			"tokenA": "tETH",
+			"tokenB": "tBTC",
+			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/tETH.png",
+			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/tBTC.png",
 			"poolContract": "neutron1w94d0pw5n0n86t5t47glmy2tvmw256u5zdrhwrwhnlyhjrc0744sgu9gzu",
 			"contractAddress": "neutron1kgfxqw4tdwra62lf0nca3vwurwamtdql9tlsfqccln6jt7ckk3ysr5ncgg",
 			"shareRanking": "6",
@@ -101,27 +101,7 @@
 				"telegram": "https://t.me/electroncommunity",
 				"website": "https://www.electronprotocol.io"
 			}
-		},
-		{
-			"name": "Meta Flowers",
-			"description": "A dummy Flowers NFT collection of 30 unique pixelated arts based on HashLips Art Engine sample assets. This is for testing purposes only and not real NFT collection.",
-			"Author": "SciampaDev",
-			"Tquantity": "3",
-			"image": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/rua2.png",
-			"tokenA": "NTRN",
-			"tokenB": "ATOM",
-			"imageA": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/ntrn.png",
-			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/atom.png",
-			"poolContract": "neutron1t3jqqftcytmyfny3a8ny6m977z06rkc7dvanr0hjgqpdaahquqeqgvtvzz",
-			"contractAddress": "neutron1tkpr62lwf83ufuuvvjwnmxyswwsyvzw0gae87wxxrq9muaxtkmzq6c6pt5",
-			"shareRanking": "8",
-			"isVerified": "false",
-			"socials": {
-				"twitter": "https://twitter.com/metaflowers",
-				"telegram": "https://t.me/metaflowers",
-				"medium": "https://medium.com/@metaflowers",
-				"website": "https://metaflowers.com"
-			}
 		}
+	    }
 	]
 }
