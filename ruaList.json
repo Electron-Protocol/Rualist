@@ -13,8 +13,8 @@
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/usdc.png",
 			"poolContract": "neutron1w94d0pw5n0n86t5t47glmy2tvmw256u5zdrhwrwhnlyhjrc0744sgu9gzu",
 			"contractAddress": "neutron1cs4zltzrfccte4jf9lq82z05564jeh9unkadavctdqqdurfd3x0qs6j582",
-			"issuerContract": "neutron1rtxlldu24vk4773tzryn3shyqhn5j7d66jnrtqk6pr9ss9v48njsq0tylf",
-			"marketAddress": "neutron1jfwwjz3wtsmfh5ex93zaj337w93gavp3vt5eks7m6cnk7qqn2krsusmeaz",
+			"issuerContract": "neutron1qkwhyqgu30uckjvqymj2asmg9t6mf73wxxhqux39f9d6t2r2hl2q7jdzne",
+			"marketAddress": "neutron1alzpkcr35t93gruynr749v9zfpmrw0zrr6tnu2j7nsk524e3mrpsqywvch",
 			"shareRanking": "7",
 			"isVerified": "true",
 			"socials": {
@@ -36,8 +36,8 @@
 			"imageB": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/atom.png",
 			"poolContract": "neutron1t3jqqftcytmyfny3a8ny6m977z06rkc7dvanr0hjgqpdaahquqeqgvtvzz",
 			"contractAddress": "neutron1mmr654v0vwrummkqp5pkzk5cvenrs4ycyjzm0z9ukmgwhef65ffqhcu869",
-			"issuerContract": "neutron1rtxlldu24vk4773tzryn3shyqhn5j7d66jnrtqk6pr9ss9v48njsq0tylf",
-			"marketAddress": "neutron1jfwwjz3wtsmfh5ex93zaj337w93gavp3vt5eks7m6cnk7qqn2krsusmeaz",
+			"issuerContract": "neutron1dss6gftm8f0fwgzkzlp8h9n4e5kk9v9yhawgxtm7ej2s92lq9y3sqxhger",
+			"marketAddress": "neutron17myksarw4fe9e52wqfms8e8w9trpeqsth0yvght0edj05ltuxjqszjht5l",
 			"shareRanking": "6",
 			"isVerified": "true",
 			"socials": {
