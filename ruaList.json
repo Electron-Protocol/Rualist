@@ -1,7 +1,7 @@
 {
 	"collections": [
 		{
-			"name": "Rassets #1",
+			"name": "RASSETS ALPHA",
 			"description": "A dummy Happy Faces NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
 			"Author": "Electron-Protocol",
 			"ruaId": "0",
@@ -23,7 +23,7 @@
 			}
 		},
 		{
-			"name": "Rassets #2",
+			"name": "RASSETS BETA",
 			"description": "A dummy Flowers NFT collection of 30 unique pixelated arts based on HashLips Art Engine sample assets. This is for testing purposes only and not real NFT collection.",
 			"Author": "SciampaDev",
 			"ruaId": "1",
