@@ -24,9 +24,9 @@
 			}
 		},
 		{
-			"name": "RASSETS BETA",
+			"name": "WRUA #2",
 			"description": "This is only a dummy non valid token for RUA 2 mechanism testing purpose.",
-			"Author": "SciampaDev",
+			"Author": "Electron-Protocol",
 			"ruaId": "1",
 			"Tquantity": "100",
 			"image": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/rua2.png",
