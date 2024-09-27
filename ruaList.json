@@ -1,7 +1,7 @@
 {
 	"collections": [
 		{
-			"name": "WRUA #5",
+			"name": "WRUA #1",
 			"description": "This is only a dummy non valid token for RUA 1 mechanism testing purpose.",
 			"Author": "Electron-Protocol",
 			"ruaId": "0",
