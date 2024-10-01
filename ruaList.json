@@ -18,7 +18,7 @@
 			"stakingContract": {
 				"address": "neutron19nzy4425ynfj23f22wep6dcxfz7vjkft59ueq80rmlu3af5u8a5qyy9sjw",
 				"msg": "eyJzdGFrZSI6IHt9fQ=="
-                        }
+			},
 			"shareRanking": "7",
 			"isVerified": "true",
 			"issuance": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/issuance/rua1.svg",
@@ -46,7 +46,7 @@
 			"stakingContract": {
 				"address": "neutron1fs5wv2nkl9mzcje6x4547fvtet30uk8tlq47jef87h78k42rm5cswwklg4",
 				"msg": "eyJzdGFrZSI6IHt9fQ=="
-                        }
+			},
 			"shareRanking": "6",
 			"isVerified": "true",
 			"issuance": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/issuance/rua1.svg",
@@ -57,6 +57,5 @@
 				"website": "https://metaflowers.com"
 			}
 		}
-		    
 	]
 }
