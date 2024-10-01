@@ -44,7 +44,7 @@
 			"issuerContract": "neutron1t9zyefulethwp3r7pzl4tcuxx5djt4qmc72980k4g8uc699k565sflfjee",
 			"marketAddress": "neutron17myksarw4fe9e52wqfms8e8w9trpeqsth0yvght0edj05ltuxjqszjht5l",
 			"stakingContract": {
-				"address": "neutron1fs5wv2nkl9mzcje6x4547fvtet30uk8tlq47jef87h78k42rm5cswwklg4"",
+				"address": "neutron1fs5wv2nkl9mzcje6x4547fvtet30uk8tlq47jef87h78k42rm5cswwklg4",
 				"msg": "eyJzdGFrZSI6IHt9fQ=="
                         }
 			"shareRanking": "6",
