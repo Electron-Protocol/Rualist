@@ -15,6 +15,10 @@
 			"contractAddress": "neutron1wfmf5aughrkq5khxc7n53y9mtnmk2mvns8vqseuewfgarfw8gfasjsk9pj",
 			"issuerContract": "neutron15mvqsyhurzqk8tm5mdv7xyr7t09tnrp90zdgtsu7fkyxnxvaxd2sx4y97k",
 			"marketAddress": "neutron1alzpkcr35t93gruynr749v9zfpmrw0zrr6tnu2j7nsk524e3mrpsqywvch",
+			"stakingContract": {
+				"address": "neutron19nzy4425ynfj23f22wep6dcxfz7vjkft59ueq80rmlu3af5u8a5qyy9sjw",
+				"msg": "eyJzdGFrZSI6IHt9fQ=="
+                        }
 			"shareRanking": "7",
 			"isVerified": "true",
 			"issuance": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/issuance/rua1.svg",
@@ -39,6 +43,10 @@
 			"contractAddress": "neutron17ge2pme8afvtm46f6xqa5czmhgtm79e86na9rq2dpstdgw9l0fsszrw0uk",
 			"issuerContract": "neutron1t9zyefulethwp3r7pzl4tcuxx5djt4qmc72980k4g8uc699k565sflfjee",
 			"marketAddress": "neutron17myksarw4fe9e52wqfms8e8w9trpeqsth0yvght0edj05ltuxjqszjht5l",
+			"stakingContract": {
+				"address": "neutron1fs5wv2nkl9mzcje6x4547fvtet30uk8tlq47jef87h78k42rm5cswwklg4"",
+				"msg": "eyJzdGFrZSI6IHt9fQ=="
+                        }
 			"shareRanking": "6",
 			"isVerified": "true",
 			"issuance": "https://raw.githubusercontent.com/Electron-Protocol/Sharelist/main/image/issuance/rua1.svg",
