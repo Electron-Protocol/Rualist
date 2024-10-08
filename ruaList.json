@@ -26,7 +26,8 @@
 				"twitter": "https://x.com/ElectronDeFi",
 				"telegram": "https://t.me/electroncommunity",
 				"website": "https://www.electronprotocol.io"
-			}
+			},
+			"txs": "https://api.electronprotocol.io/TxsRua1"
 		},
 		{
 			"name": "WRUA #2",
@@ -55,7 +56,8 @@
 				"telegram": "https://t.me/metaflowers",
 				"medium": "https://medium.com/@metaflowers",
 				"website": "https://metaflowers.com"
-			}
+			},
+			"txs": "https://api.electronprotocol.io/TxsRua2"
 		}
 	]
 }
