@@ -27,7 +27,8 @@
 				"telegram": "https://t.me/electroncommunity",
 				"website": "https://www.electronprotocol.io"
 			},
-			"txs": "https://api.electronprotocol.io/txs/0"
+			"txs": "https://api.electronprotocol.io/txs/0",
+			"stakingTxs": "https://api.electronprotocol.io/txs/staking/0"
 		},
 		{
 			"name": "WRUA #2",
@@ -58,6 +59,7 @@
 				"website": "https://metaflowers.com"
 			},
 			"txs": "https://api.electronprotocol.io/txs/1"
+			"stakingTxs": "https://api.electronprotocol.io/txs/staking/1"
 		}
 	]
 }
