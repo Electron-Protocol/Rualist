@@ -58,7 +58,7 @@
 				"medium": "https://medium.com/@metaflowers",
 				"website": "https://metaflowers.com"
 			},
-			"txs": "https://api.electronprotocol.io/txs/1"
+			"txs": "https://api.electronprotocol.io/txs/1",
 			"stakingTxs": "https://api.electronprotocol.io/txs/staking/1"
 		}
 	]
